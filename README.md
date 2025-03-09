@@ -3,6 +3,12 @@ Telegram private chat logger (using telegram business chatbots API) on cloudflar
 
 <br>
 
+### 💭 **Why?**
+- Prevent data loss when users delete the chat for both sides.
+- Maintain an organized and searchable record of all conversations.
+
+<br>
+
 ## 🗂 Variables
 ```javascript
 const BOT_TOKEN = "BOT_TOKEN"; // Insert your bot token.
